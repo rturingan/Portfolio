@@ -1,0 +1,39 @@
+*{
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+#div-1{
+	background-image: linear-gradient(to right top, #0a3283, #404e96, #656ca8, #878cbb, #aaadcd, #a8aac8, #a5a8c2, #a3a5bd, #7d7f9f, #595a82, #373866, #12184a);
+	
+
+}
+
+#nav-1{
+	background-image: linear-gradient(to right top, #ec2424, #f15b19, #f38218, #f3a327, #f1c242, #f1c240, #f1c33d, #f1c33b, #f4a412, #f78200, #f95900, #f80909);
+}
+
+#but-1{
+	background-image: linear-gradient(to right top, #928d8d, #a5a1a2, #b9b6b7, #cdcbcd, #e2e1e2, #eae9ea, #f2f2f3, #fafafb, #f5f6f8, #f1f3f4, #eceff1, #e7ecec);
+}
+
+#sil{  
+  opacity: 0.20;
+}
+
+#form-1{
+	background-image: linear-gradient(to right top, #64da4c, #76dc61, #86dd74, #95de86, #a4df98, #a1de96, #9ede93, #9bdd91, #84da7a, #6ad761, #4ad347, #01cf25);
+
+}
+
+#toolsbg{
+	background: linear-gradient(90deg, rgba(142,139,139,1) 0%, rgba(254,253,255,0.9976365546218487) 50%, rgba(142,139,139,1) 100%);
+
+}
+
+#toolin{
+	background: linear-gradient(90deg, rgba(173,167,167,1) 0%, rgba(215,241,242,0.9976365546218487) 50%, rgba(173,167,167,1) 100%);
+}
+
+#contdet{
+	background: linear-gradient(90deg, rgba(161,215,228,0.8547794117647058) 0%, rgba(156,150,150,1) 50%, rgba(161,215,228,0.9051995798319328) 100%);
+}
